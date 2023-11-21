@@ -7,7 +7,7 @@ This application uses transfer learning with an Inception V3 architecture that c
 ## Requirements
 To install the necessary requirements to run the command:  
 
-`sudo sh install_requirements.sh`
+`pip install -r requirements.txt`
 
 
 ## Files
