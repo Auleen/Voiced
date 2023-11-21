@@ -46,3 +46,4 @@ Pressing `R` goes back to real time mode.
 
 Pressing `ESC` closes the live stream and exits the program.
 "# Voiced" 
+"# Voiced" 
